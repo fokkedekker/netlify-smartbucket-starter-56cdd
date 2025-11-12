@@ -1,6 +1,6 @@
 # SmartBucket Starter
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LiquidMetal-AI/lm-raindrop-demos&base=netlify-smartbucket-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LiquidMetal-AI/netlify-smartbucket-starter)
 
 Minimal starter template demonstrating document storage and semantic search using Raindrop's SmartBucket feature on Netlify.
 
