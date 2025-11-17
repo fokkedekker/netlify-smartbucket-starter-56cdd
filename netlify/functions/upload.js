@@ -40,6 +40,8 @@ export const handler = async (event, context) => {
     const bucketLocation = {
       bucket: {
         name: process.env.RAINDROP_SMARTBUCKET_NAME,
+        version: process.env.RAINDROP_APPLICATION_VERSION,
+        applicationName: process.env.RAINDROP_APPLICATION_NAME
       }
     };
 
